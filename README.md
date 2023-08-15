@@ -23,7 +23,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/nodejs-auth.git`
+`git clone https://github.com/RaviRanjan530/nodejs-auth.git'
 
 ##### Into the project directory
 
